@@ -1,6 +1,7 @@
+# DCC301_AnaJuliaV.P.A._ShellyLeal_UFRR_2022
+Laboratório de Circuitos  - CODIFICAÇÃO E SIMULAÇÕES 
 
+Este repositório é referente à Avaliação de Barramento da disciplina Arquitetura e Organização de Computadores (DCC301) e seus resultados desenvolvidos pelas alunas Ana Júlia Vieira Pereira Andrade da Costa e Shelly da Costa Leal.
 
-    # AOC- Ana Julia V.P.A _ Shelly da Costa Leal _UFRR_2022
-    
-    # Repositório criado para o projeto final na disciplina de Arquitetura e Organização de Computadores, 
-    oferecido no semestre de 2022.2.
+# Softwares Utilizados:
+Logisim: Usado para criação, testes e obtenção de resultados de circuitos digitais. Versão Utilizada: 2.7.1.
